@@ -2,6 +2,6 @@
 "name": "KopenHagen",
 "description": "A secure and reliable cardano stake pool. We strive to serve you and your ADA. Build and maintained by a competent data scientist. 24/7 monitoring of our pool.",
 "ticker": "NAKED",
-"homepage": "https://tinyurl.com/NINIstake",
+"homepage": "https://raw.githubusercontent.com/mikkelkrogsholm/adapool/master/poolMetaData.json",
 "extended": ""
 }
